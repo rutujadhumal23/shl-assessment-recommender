@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "duration": 11,
+    "description": "Multi-choice test that measures the knowledge of Python programming, databases, modules and library.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "language": "English (USA)",
+    "remote_testing": true,
+    "keywords": ["python", "programming", "developer", "database", "modules", "library", "coding", "software"]
+  },
+
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": "K",
+    "duration": 13,
+    "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "language": "English (USA)",
+    "remote_testing": true,
+    "keywords": ["java", "core java", "oop", "developer", "programming", "coding", "file handling", "exception handling", "threads"]
+  },
+
+  {
+  "name": "SQL (New)",
+  "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+  "test_type": "K",
+  "duration": 9,
+  "description": "Multi-choice test that measures the knowledge of SQL queries, data manipulation and transaction processing.",
+  "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+  "language": "English (USA)",
+  "remote_testing": true,
+  "keywords": ["sql", "database", "queries", "data manipulation", "transaction processing", "data analyst", "backend", "developer"]
+},
+
+  {
+  "name": "Hibernate (New)",
+  "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+  "test_type": "K",
+  "duration": 5,
+  "description": "Multi-choice test that measures the knowledge of Hibernate architecture, Hibernate mapping and Hibernate query language (HQL).",
+  "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+  "language": "English (USA)",
+  "remote_testing": true,
+  "keywords": ["hibernate", "java", "backend", "hql", "orm", "database", "mapping", "developer"]
+},
+
+  {
+  "name": "JavaScript (New)",
+  "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+  "test_type": "K",
+  "duration": 9,
+  "description": "Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development.",
+  "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+  "language": "English (USA)",
+  "remote_testing": true,
+  "keywords": ["javascript", "frontend", "front-end", "web developer", "programming", "coding", "developer", "software"]
+},
+
+  {
+  "name": "Java 8 (New)",
+  "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+  "test_type": "K",
+  "duration": 18,
+  "description": "Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+  "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+  "language": "English (USA)",
+  "remote_testing": true,
+  "keywords": ["java", "java 8", "class design", "exceptions", "generics", "collections", "concurrency", "jdbc", "java io"]
+},
+
+  {
+  "name": "Core Java (Advanced Level) (New)",
+  "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+  "test_type": "K",
+  "duration": 13,
+  "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency.",
+  "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+  "language": "English (USA)",
+  "remote_testing": true,
+  "keywords": ["java", "core java", "advanced java", "oop", "exception handling", "generics", "collections", "threads", "strings", "concurrency"]
+},
+
+  {
+  "name": "Java Design Patterns (New)",
+  "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+  "test_type": "K",
+  "duration": 5,
+  "description": "Multi-choice test that measures the knowledge of the types of design patterns in Java and principles like threads and refactoring used in Java design patterns.",
+  "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+  "language": "English (USA)",
+  "remote_testing": true,
+  "keywords": ["java", "design patterns", "patterns", "threads", "refactoring", "architecture", "senior java"]
+}
+]
